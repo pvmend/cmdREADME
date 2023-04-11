@@ -6,7 +6,7 @@
   
   ## Description
 
-  create a project that lets the user generate a README.md by answering a few questions in the terminal
+  answering prompt in terminal generates a README.md
 
   ## Table Of Contents 
 
@@ -17,15 +17,15 @@
 
   ## Installation
 
-  The following necessary dependencies must be installed to run the application properly: first use node.js to start the prompts and then answer them and your README should be generated
+  The following necessary dependencies must be installed to run the application properly: run the js file in node.js answer prompts 
   
   ## Usage
 
-  user answers prompts and then gets a README that they can then attach to their project
+  the user needs a README for their project and by answering the prompts one is generated
 
   ## Contributing
 
-  Paul Mendoza
+  paul mendoza
 
   
   ## License
